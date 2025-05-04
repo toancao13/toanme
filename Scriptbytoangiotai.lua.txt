@@ -11,7 +11,7 @@ ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.10615778, 0, 0.16217947, 0)
 ImageButton.Size = UDim2.new(0, 40, 0, 40)
 ImageButton.Draggable = true
-ImageButton.Image = "http://www.roblox.com/asset/?id=1000001409"
+ImageButton.Image = "http://www.roblox.com/asset/?id=1000000034"
 
 UICorner.CornerRadius = UDim.new(1, 10) 
 UICorner.Parent = ImageButton
@@ -41,9 +41,9 @@ local Tabs = {
 }
     Tabs.Main0:AddButton({
     Title = "TIKTOK",
-    Description = "kiet_caythue",
+    Description = "toan_giotai",
     Callback = function()
-        setclipboard("https://www.tiktok.com/@kitnguyn4661?lang=vi-VN")
+        setclipboard("https://www.tiktok.com/@_twn.09._?lang=vi-VN")
     end
 })
 Tabs.Main1:AddButton({
